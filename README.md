@@ -1,1 +1,1 @@
-The dashboard of the monthly finance budget. Detailed structure of monthly expense and overall budget.
+The dashboard of the monthly finance budget. Detailed structure of monthly expense and overall budget. The overall dashboard helps in understanding the saving%, exxpense% and net worth and also the expenditure trend and saving trends with the help of graphical representation of the same.
